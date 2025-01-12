@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/malekghabi/Downloads/ALGOPRO 7'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
+make: Leaving directory `/Users/malekghabi/Downloads/ALGOPRO 7'
+ 
