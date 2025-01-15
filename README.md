@@ -112,3 +112,11 @@ g++ -o carte_routiere main.cpp -std=c++17
 - **Prénom** : Malek
 - **Cours** : Algorithmique Avancée et Graphes (Licence 2 Informatique)
 - **Enseignant** : S. Gueye
+
+
+
+<img width="943" alt="Capture d’écran 2025-01-12 à 12 59 37" src="https://github.com/user-attachments/assets/b9ff7d29-7965-4f68-ab7d-386f57ef9754" />
+
+<img width="930" alt="Capture d’écran 2025-01-12 à 12 33 11" src="https://github.com/user-attachments/assets/f68ce276-0a6c-4d2e-b2ab-bc42d71fc695" />
+
+<img width="847" alt="Capture d’écran 2025-01-12 à 12 32 47" src="https://github.com/user-attachments/assets/4660eb5c-e60f-41aa-a4a4-4b9d7c9dee62" />
